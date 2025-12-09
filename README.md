@@ -84,7 +84,7 @@ Rice, Maize, Chickpea, Kidneybeans, Pigeonpeas, Mothbeans, Mungbean, Blackgram, 
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Kaggle for the dataset
 - Scikit-learn community
