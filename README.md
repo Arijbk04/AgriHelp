@@ -4,7 +4,7 @@ A smart crop recommendation system using Machine Learning to help farmers choose
 
 ---
 
-## 📖 About
+##  About
 
 AgriPredict uses a **Decision Tree algorithm** to predict the most suitable crop for your land based on:
 - Soil nutrients (N, P, K, pH)
@@ -14,13 +14,13 @@ AgriPredict uses a **Decision Tree algorithm** to predict the most suitable crop
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🤖 Machine Learning prediction (Decision Tree)
-- 🌾 22 crop types supported
-- 🎨 Simple and clean GUI (Tkinter)
-- 📚 Built-in crop information database
-- ⚡ Fast and accurate predictions
+- Machine Learning prediction (Decision Tree)
+- 22 crop types supported
+- Simple and clean GUI (Tkinter)
+- Built-in crop information database
+- Fast and accurate predictions
 
 ---
 
@@ -31,7 +31,7 @@ AgriPredict uses a **Decision Tree algorithm** to predict the most suitable crop
 
 ---
 
-## 💻 Usage
+##  Usage
 
 1. Launch the app: `python app.py`
 2. Enter soil parameters (N, P, K, pH)
@@ -41,7 +41,7 @@ AgriPredict uses a **Decision Tree algorithm** to predict the most suitable crop
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 **Source:** [Kaggle - Crop Recommendation Dataset](https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset)
 
@@ -54,7 +54,7 @@ Rice, Maize, Chickpea, Kidneybeans, Pigeonpeas, Mothbeans, Mungbean, Blackgram, 
 
 ---
 
-## 🎯 Model Performance
+##  Model Performance
 
 | Metric | Score |
 |--------|-------|
@@ -67,7 +67,7 @@ Rice, Maize, Chickpea, Kidneybeans, Pigeonpeas, Mothbeans, Mungbean, Blackgram, 
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Python** - Programming language
 - **Scikit-learn** - Machine Learning
@@ -76,7 +76,7 @@ Rice, Maize, Chickpea, Kidneybeans, Pigeonpeas, Mothbeans, Mungbean, Blackgram, 
 
 ---
 
-## 👤 Author
+##  Author
 
 **[Boubaker Arij]**
 - GitHub: [@arijbk04](https://github.com/arijbk04)
